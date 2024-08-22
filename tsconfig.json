@@ -11,6 +11,8 @@
     // компилятор будет обрабатывать не только ts файлы, но и js файлы
     "allowJs": true,
     "moduleResolution": "node",
+    // для абсолютного импорта
+    "baseUrl": ".",
     // позволяет работать с пакетами, которые использует common js как с обычными пакетами, с помощью (import require() module.exports) = common js
     "esModuleInterop": true,
     // если какая либо библеотека не имеет экспорта по умолчанию, лоадеры типа ts-loader и babel-loader овтаматически создают их
