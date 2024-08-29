@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 const AbouPage = () => {
   const { t } = useTranslation('about');
 
-  return <div>{t('About')}</div>;
+  return <div></div>;
 };
 
 export default AbouPage;
