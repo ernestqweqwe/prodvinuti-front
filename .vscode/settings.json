@@ -9,5 +9,9 @@
 
   "i18n-ally.defaultNamespace": "translation",
   "i18n-ally.sourceLanguage": "en",
-  "i18n-ally.displayLanguage": "en"
+  "i18n-ally.displayLanguage": "en",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "never"
+  }
 }
