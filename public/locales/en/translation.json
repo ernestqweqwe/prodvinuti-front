@@ -4,5 +4,7 @@
   "MainPage": "MainPage",
   "About site": "About site",
   "toggle": "toggle",
-  "Page not found": "Page Not Found"
+  "Page not found": "Page Not Found",
+  "An unexpected error occurred": "An unexpected error occurred",
+  "Refresh page": "Refresh page"
 }

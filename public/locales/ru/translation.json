@@ -4,5 +4,7 @@
   "MainPage": "Главная страница",
   "About site": "О сайте",
   "toggle": "переключатель",
-  "Page not found": "Страница не найдена"
+  "Page not found": "Страница не найдена",
+  "An unexpected error occurred": "Произошла непредвиденая ошибка",
+  "Refresh page": "Обновить страницу"
 }
